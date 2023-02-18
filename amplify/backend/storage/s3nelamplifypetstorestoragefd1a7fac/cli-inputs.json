@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3nelamplifypetstorestoragefd1a7fac",
+  "bucketName": "nel-amplify-petstore-storage-fd1a7fac",
+  "policyUUID": "f7fdb249",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
